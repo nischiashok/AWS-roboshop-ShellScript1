@@ -142,7 +142,7 @@ Ready to advance your shell scripting and automation skills? Explore these curat
 ## 🤝 Credits & Connect 💬❤️
 
 Inspired by cloud-native DevOps workflows and automation best practices.  
-Created with dedication by [nischitha A](https://github.com/nischiashok/) 👩‍💻✨
+Created with dedication by [nischitha A](https://github.com/nischiashok) 👩‍💻✨
 
 
 
