@@ -127,9 +127,25 @@ Contributions welcome! Please follow these guidelines:
 - Submit pull requests with clear descriptions.
 
 ---
+## 🛠️ Related Repositories & Continuous Learning 📚✨
+
+Ready to advance your shell scripting and automation skills? Explore these curated repositories for a hands-on journey from foundational scripts to cloud-scale automation:
+
+- [AWS-roboshop-ShellScript1](https://github.com/nischiashok/AWS-roboshop-ShellScript1)  
+  ☁️ **Roboshop Automation Scripts for AWS** – Dive into practical, cloud-ready scripts powering resilient microservices on AWS! 🚀
+
+- [AWS-roboshop-ShellScript2](https://github.com/nischiashok/AWS-roboshop-ShellScript2)  
+  🤖 **Integrated Infrastructure Setup** – Experience seamless Roboshop deployments with unified automation for common folders and services. 🌐⚙️
+
+---
+
+## 🤝 Credits & Connect 💬❤️
+
+Inspired by cloud-native DevOps workflows and automation best practices.  
+Created with dedication by [nischitha A](https://github.com/nischiashok/) 👩‍💻✨
 
 
 
-This project is licensed under the [Unlicense](./UNLICENSE).
+
 
 ---
